@@ -1,0 +1,6 @@
+{
+  "name": "StudyAI",
+  "description": "AI Study Companion & Notes Generator that reads study materials, creates revision cards, quizzes, mind maps, interactive AI chat, solves university PYQs with ChatGPT-style step-by-step model answers, and exports formatted study notes to printable PDF files for offline study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
